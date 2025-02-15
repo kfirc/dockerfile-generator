@@ -1,0 +1,10 @@
+langgraph~=0.2.72
+langchain~=0.3.18
+langchain-community~=0.3.17
+langchain-openai~=0.3.5
+langchain-google-genai~=2.0.9
+langchain-core~=0.3.35
+openai~=1.62.0
+python-dotenv~=1.0.1
+docker~=7.1.0
+pydantic~=2.10.6
